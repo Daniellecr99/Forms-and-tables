@@ -3,22 +3,21 @@
 	-webkit-border-radius: 60px;
 	-moz-border-radius: 10px;
 	margin: 0 auto;
-	border: 50px groove #FFD2D2;
-	padding: 50px;
+	border: 30px groove #FFD2D2;
+    padding-bottom: 60px;
     background: #FFF4F4;
     max-width: 400px;
-    max-height: 600px;
+    max-height: 1000px;
 	
     
 }
 body {
-    background-color:darkgray;
     text-align: center;
     border: 60px;
     padding: 50px;
 }
 input[type=submit] {
-    background-color:deeppink;
+    background-color:rgb(114, 123, 240);
     cursor: pointer;
     width: 300px;
 }
