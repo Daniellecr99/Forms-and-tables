@@ -1,9 +1,7 @@
 .form {
-    border-radius: 60px;
-	-webkit-border-radius: 60px;
-	-moz-border-radius: 10px;
 	margin: 0 auto;
-	border: 30px groove #FFD2D2;
+    border: 30px groove #FFD2D2;
+    border-radius: 60px;
     padding-bottom: 60px;
     background: #FFF4F4;
     max-width: 400px;
